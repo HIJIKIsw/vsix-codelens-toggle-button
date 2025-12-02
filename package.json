@@ -3,7 +3,7 @@
     "displayName": "CodeLens Toggle",
     "description": "Toggle CodeLens visibility from the status bar",
     "version": "0.0.1",
-    "publisher": "user",
+    "publisher": "HIJIKIsw",
     "engines": {
         "vscode": "^1.90.0"
     },
