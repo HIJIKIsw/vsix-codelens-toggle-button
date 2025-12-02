@@ -22,6 +22,12 @@ npm install
 npm run compile
 ```
 
+### VSIXパッケージの作成
+
+```bash
+npx vsce package
+```
+
 ### デバッグ
 
 F5キーを押してデバッグを開始します。
